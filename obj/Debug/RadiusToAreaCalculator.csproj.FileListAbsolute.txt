@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\RadiusToAreaCalculator\bin\Debug\RadiusToAreaCalculator.exe.config
+C:\Users\Administrator\source\repos\RadiusToAreaCalculator\bin\Debug\RadiusToAreaCalculator.exe
+C:\Users\Administrator\source\repos\RadiusToAreaCalculator\bin\Debug\RadiusToAreaCalculator.pdb
+C:\Users\Administrator\source\repos\RadiusToAreaCalculator\obj\Debug\RadiusToAreaCalculator.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\RadiusToAreaCalculator\obj\Debug\RadiusToAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\RadiusToAreaCalculator\obj\Debug\RadiusToAreaCalculator.exe
+C:\Users\Administrator\source\repos\RadiusToAreaCalculator\obj\Debug\RadiusToAreaCalculator.pdb
